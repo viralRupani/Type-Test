@@ -33,7 +33,4 @@ the_para = ['One study examining 30 subjects, of varying different styles and ex
             'and training for supervisors on new laws and practices after several strikes and employee lockouts. '
             'During the 1970s, companies experienced globalization, deregulation, and rapid technological change '
             'which caused the major companies to enhance their strategic planning and focus on ways to promote '
-            'organizational effectiveness. This resulted in developing more jobs and opportunities for people to show '
-            'their skills which were directed to effective applying employees toward the fulfillment of individual, '
-            'group, and organizational goals. Many years later the major/minor of human resource management was '
-            'created at universities and colleges also known as business administration.']
+            'organizational effectiveness.']
